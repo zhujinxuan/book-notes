@@ -1,0 +1,20 @@
+# Subordinates
+
+Subordinates relegate phrases into a less critical place. It will cause confusion if you
+put it the importance key point in the subordinates.
+
+Grammar Trick:  Sometimes writers intentionally put abnormal incidents insides subordinates, 
+to play up the weirdness that the abnormal incidents become normal under the context.  Example:
+
+#+BEGIN_QUOTE
+Ted Lavender, who was scared, carried tranquilizers until he was shot in his head outside the
+village of Than Ken in mid April.
+#+END_QUOTE
+
+Conjugations can cause confusion when it has multiple meanings.  For example, the word 'while' can 
+imply a time relation, as well as a logic relation by being a synonyms of 'although'.  Use it when
+by
+1. Only for its primary definition
+2. When its primary meaning coincide with secondary meaning.
+
+Do not use the word 'as'.  It has too many ambiguous meanings.
